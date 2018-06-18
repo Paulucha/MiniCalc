@@ -18,7 +18,7 @@ public class Main {
                 System.out.println("Wybrałeś " + wybranieDzialanie + " Newtonie");
                 System.out.println();
 
-                //  pobieranieLiczb {
+                //  pobieranieLiczb { blablabla
 
                 Scanner wczytaj = new Scanner(System.in);
                 System.out.print("Ile liczb chcesz użyć do działania? ");
